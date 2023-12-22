@@ -26,7 +26,7 @@ async function reduce_image_file_size(
       canvas.height = height;
       let ctx = canvas.getContext("2d");
       ctx.drawImage(img, 0, 0, width, height);
-      resolve(canvas.toDataURL()); // this will return base64 image results after resize
+      resolve(canvas.toDataURL());
     };
   });
   return resized_base64;
