@@ -8,7 +8,7 @@ Para instalar este proyecto en tu máquina local, sigue los siguientes pasos:
 <li><b>@reduxjs/toolkit:</b> biblioteca para la gestión del estado de la aplicación.</li>
 <li><b>axios: </b> biblioteca para la realización de peticiones HTTP.</li>
 <li><b>firebase:</b> biblioteca para la conexión con Firebase.</li>
-<li><b>localforage: </b> biblioteca para la gestión del almacenamiento local </li>
+<li><b>localforage: </b> biblioteca para la gestión del almacenamiento local. </li>
 <li>Entre otras...</li>
 </ul>
 
