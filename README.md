@@ -21,7 +21,7 @@ Para instalar las dependencias necesarias, ejecuta el siguiente comando en la te
 Una vez instaladas las dependencias, puedes iniciar la aplicación en modo de desarrollo con el siguiente comando:
 
 ```
-  npm run dev
+  npm run dev.
 ```
 
 ## Autor
