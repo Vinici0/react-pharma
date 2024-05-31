@@ -12,7 +12,6 @@ Para instalar este proyecto en tu máquina local, sigue los siguientes pasos:
 <li>Entre otras...</li>
 </ul>
 
-
 Para instalar las dependencias necesarias, ejecuta el siguiente comando en la terminal:
 
 ```
